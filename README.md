@@ -10,5 +10,5 @@
     <li>source myenv/bin/activate</li>
     </ul>
     <li>pip install -r requirements.txt</li>
-    <li>Now you can the files</li>
+    <li>Now you can run the files</li>
 </ol>
