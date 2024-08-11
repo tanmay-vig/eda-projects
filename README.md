@@ -16,6 +16,13 @@
 <a href='./food-wastage/'>Food Wastage Project</a>
 </h2>
 <b>Some Outputs:</b> <br>
+<img src="./readme-assets/output1.png" alt="output1" height="250px" width="250px">
+<img src="./readme-assets/output2.png" alt="output2" height="250px" width="250px">
+<img src="./readme-assets/output3.png" alt="output3" height="250px" width="250px">
+
+<h2>
+<a href='./red-wine/'>Food Wastage Project</a>
+</h2>
+<b>Some Outputs:</b> <br>
 <img src="./readme-assets/output4.png" alt="output4" height="250px" width="250px">
 <img src="./readme-assets/output5.png" alt="output5" height="250px" width="250px">
-<img src="./readme-assets/output7.png" alt="output7" height="250px" width="250px">
