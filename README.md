@@ -21,7 +21,7 @@
 <img src="./readme-assets/output3.png" alt="output3" height="250px" width="250px">
 
 <h2>
-<a href='./red-wine/'>Food Wastage Project</a>
+<a href='./red-wine/'>Red Wine Project</a>
 </h2>
 <b>Some Outputs:</b> <br>
 <img src="./readme-assets/output4.png" alt="output4" height="250px" width="250px">
