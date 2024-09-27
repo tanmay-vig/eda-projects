@@ -1,4 +1,4 @@
-# ML PROJECTS
+# EDA PROJECTS
 
 <div>Steps to run:</div>
 <ol>
