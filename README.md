@@ -25,4 +25,9 @@
 </h2>
 <b>Some Outputs:</b> <br>
 <img src="./readme-assets/output4.png" alt="output4" height="250px" width="250px">
-<img src="./readme-assets/output5.png" alt="output5" height="250px" width="250px">
+<img src="./readme-assets/output5.png" alt="output5" height="250px" width="250px"> <br>
+
+<a href='./flight-price'>Flight Price</a> <br>
+<a href='./google-playstore'>Google Playstore</a> <br>
+<a href='./ott-and-job-posting-eda'>Ott and Job Dataset</a> <br>
+
